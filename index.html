@@ -1,16 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto-English</title>
+    <link rel="stylesheet" href="/Assets/css/index.css" type="text/css">
 </head>
-<body>
-    <main >
-        <input id="id" type="text">
-        <button>enviar</button>
-       
-    </main>
+
+<body onload="iniciar()">
+    <div id="main">
+        <h2>ChatBot about English</h2>
+        <div id="mensagem">
+            <div id="robo">
+                <div id="bot">
+                    <h3>Fenix</h3>
+                </div>
+            </div>
+        </div>
+        <div class="input">
+            <input id="msgenviar" type="text" placeholder="digite aqui">
+            <button class="send" id="replay">enviar</button>
+            
+        </div>
+    </div>
+
+
 </body>
+<script type="text/javascript" src="./Assets/js/index.js"></script>
+
 </html>
