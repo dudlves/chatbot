@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#main{
+    background-color: aqua;
+    margin: 20px;
+    width: 423px;
+    height: 577px;
+}
+
+#main > h2 {
+    background-color: aquamarine;
+    text-align: center;
+}   
+    
+.input{
+    justify-content: flex-end;
+}
