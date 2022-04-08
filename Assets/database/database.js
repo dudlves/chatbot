@@ -1,5 +1,4 @@
 const questions = [
-    "Para o presente contínuo a terminação -ing ao final do verbo significa o nosso ando, endo, indo, ou seja, o gerúndio na língua portuguesa.",
     1- "Verbos terminados em CVC (consoante + vogal + consoante) repete a ultima Letra, Exemplos: Run = Running",
     2- "Verbos terminados em E, tiramos o E e colocamos ING, Exemplos: Ride = Riding",
     3- "Verbos terminados em IE, trocamos o IE po Y e colocamos ING, Exemplos: Lie = Lying",
